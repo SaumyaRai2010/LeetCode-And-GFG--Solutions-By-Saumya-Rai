@@ -1,4 +1,3 @@
-// import java.util.*;
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         int[] nums2 = Arrays.copyOf(nums, nums.length);
